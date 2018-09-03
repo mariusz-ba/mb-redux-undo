@@ -1,0 +1,21 @@
+{
+  "name": "mb-redux-undo",
+  "version": "1.0.0",
+  "description": "High order reducer that provides undo/redo functionality to redux state containers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "JavaScript",
+    "Redux",
+    "Undo",
+    "Redo"
+  ],
+  "author": "Mariusz Baran",
+  "license": "MIT",
+  "devDependencies": {
+    "redux": "^4.0.0",
+    "jest": "^23.5.0"
+  }
+}
